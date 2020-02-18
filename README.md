@@ -1,3 +1,2 @@
 # GeneratePasswordWithTkinter
-
-![](images/passwordGeneratorImage.png)
+![](image/passwordGeneratorImage.png)
